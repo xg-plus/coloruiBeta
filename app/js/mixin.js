@@ -4,6 +4,7 @@ import {
 export default {
 	data() {
 		return {
+			
 		};
 	},
 	computed: {
